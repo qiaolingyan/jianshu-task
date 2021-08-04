@@ -1,0 +1,8 @@
+{
+  "apps": [
+    {
+      "name": "jianshu",
+      "script": "npm -s build"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,UACE,QAAS,CACT,SACF,CAKA,WACE,UAAW,CACX,WACF,CACA,MACE,WACF","file":"main.d96aa213.chunk.css","sourcesContent":["html,body{\r\n  margin: 0;\r\n  padding: 0;\r\n}\r\n#root{\r\n  width: 100%;\r\n  height: 100%;\r\n}\r\n.app{\r\n  width: 100%;\r\n  height: 100%;\r\n}\r\ninput{\r\n  outset:none;\r\n}"]}

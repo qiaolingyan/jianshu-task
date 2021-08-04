@@ -1,0 +1,2 @@
+(this.webpackJsonphooks=this.webpackJsonphooks||[]).push([[0],{275:function(t,e,o){"use strict";o.r(e);o(0);var s=o(2),n=o(6);e.default=function(){var t=Object(s.f)();return localStorage.getItem("user")||t.push("/login"),Object(n.a)("div",null,"Home")}}}]);
+//# sourceMappingURL=Home.327e7d02.chunk.js.map
